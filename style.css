@@ -1,0 +1,18 @@
+body{
+    background-image: url(coffeemug.jpg);
+    background-size: cover;
+}
+.hero{
+    text-align: center;
+    font-family: 'revalia',cursive;
+    color: #fff;
+    margin-top: 20%;
+    font-size: 50px;
+    line-height: 1.7em;
+    width: 1000px;
+
+}
+.imn{
+    height: 100px;
+    width: 200px;
+}
